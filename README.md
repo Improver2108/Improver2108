@@ -71,4 +71,4 @@ Production banking workflow enabling users to securely link bank accounts using 
 ## Connect
 
 - 📧 yashrawat2108@gmail.com
-- 💼 LinkedIn: <your-linkedin>
+- 💼 LinkedIn: https://www.linkedin.com/in/yash-rawat-b9435a188/
